@@ -1,0 +1,7 @@
+README.md
+setup.py
+glue_redshift.egg-info/PKG-INFO
+glue_redshift.egg-info/SOURCES.txt
+glue_redshift.egg-info/dependency_links.txt
+glue_redshift.egg-info/not-zip-safe
+glue_redshift.egg-info/top_level.txt
